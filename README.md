@@ -1,6 +1,10 @@
 
 ## Available Scripts
 
+### `npm install`
+
+To install all the necessary libraries for the project.\
+
 In the project directory, you can run:
 
 ### `npm start`
